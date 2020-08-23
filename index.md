@@ -8,9 +8,9 @@ You can download and play our game [on GitHub](https://github.com/5418052ou/Game
 
 ## 開発者
 
-5418033　ブコ ウテン
-5418065　シュ ウンキ
-5418052　オウ イチホウ
+5418033　ブコ ウテン　
+5418065　シュ ウンキ　
+5418052　オウ イチホウ　
 
 ## ゲームの説明
 
