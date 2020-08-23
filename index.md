@@ -24,7 +24,7 @@ You can download and play our game [on GitHub](https://github.com/5418052ou/Game
 
 ## 関係書類
 
-###  [企画書](https://drive.google.com/file/d/16q_mjz8whxVuZttpkC7PXgo9z0m9HKvr/view?usp=sharing)
+###  [企画書](https://drive.google.com/file/d/15NX0th7FM5zeSGi_Fo210TBHG8ZsgcSi/view?usp=sharing)
 ###  [最終レポート]()
-###  [ポスター](https://drive.google.com/file/d/1a-OGA2cU_eFoGiM5RbkpJDRoi982pBjX/view?usp=sharing)
-###  [ゲーム画面](https://drive.google.com/file/d/1279R1Sk0LFku9Jna1EKPWa1o6oW3Urff/view?usp=sharing)
+###  [ポスター](https://drive.google.com/file/d/1fHs2v30HlBMHdOM6re4GtjsvZaVjsjwW/view?usp=sharing)
+###  [ゲーム画面](https://drive.google.com/file/d/1bF3gfE2s6_MstKP9sLK5sfKWGN0fDrR7/view?usp=sharing)
