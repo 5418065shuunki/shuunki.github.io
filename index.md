@@ -24,7 +24,7 @@ You can download and play our game [on GitHub](https://github.com/5418052ou/Game
 
 ## 関係書類
 
-###  [企画書](https://github.com/5418065shuunki/shuunki.github.io/blob/master/dc1_2020_08.pdf)
+###  [企画書](https://drive.google.com/file/d/16q_mjz8whxVuZttpkC7PXgo9z0m9HKvr/view?usp=sharing)
 ###  [最終レポート]()
-###  [ポスター](https://github.com/5418065shuunki/shuunki.github.io/blob/master/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.png)
-###  [ゲーム画面](https://github.com/5418065shuunki/shuunki.github.io/blob/master/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC2.PNG)
+###  [ポスター](https://drive.google.com/file/d/1a-OGA2cU_eFoGiM5RbkpJDRoi982pBjX/view?usp=sharing)
+###  [ゲーム画面](https://drive.google.com/file/d/1279R1Sk0LFku9Jna1EKPWa1o6oW3Urff/view?usp=sharing)
