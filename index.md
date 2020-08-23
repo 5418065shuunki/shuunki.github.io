@@ -1,6 +1,6 @@
 # Survive as long as you can
 
-You can find our game [on GitHub](https://github.com/5418052ou/Game) to play.
+You can download and play our game [on GitHub](https://github.com/5418052ou/Game).
 
 ## 概要
 
