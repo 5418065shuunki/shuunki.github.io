@@ -4,7 +4,7 @@ You can download and play our game [on GitHub](https://github.com/5418052ou/Game
 
 ## 概要
 
-Survive as long as you canは敵の攻撃からできるだけ長い時間生きていくゲームである。
+このゲーム(Survive as long as you can)は敵の攻撃からできるだけ長い時間生きていくゲームである。
 
 ## 開発者
 
