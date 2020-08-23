@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Survive as long as you can
 
-You can use the [editor on GitHub](https://github.com/5418065shuunki/shuunki.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can find our game [on GitHub](https://github.com/5418052ou/Game) to play.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 概要
 
-### Markdown
+Survive as long as you canは敵の攻撃からできるだけ長い時間生きていくゲームである。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 開発者
 
-```markdown
-Syntax highlighted code block
+5418033　ブコ ウテン
+5418065　シュ ウンキ
+5418052　オウ イチホウ
 
-# Header 1
-## Header 2
-### Header 3
+### ゲームの説明
 
-- Bulleted
-- List
+#### 遊び方
 
-1. Numbered
-2. List
+1.マウスからボールを左右の移動をコントロールする。
+2.左ボタンで敵を攻撃する。
+3.キーボードのSでゲームを一時停止する。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/5418065shuunki/shuunki.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###  [企画書](https://github.com/5418065shuunki/shuunki.github.io/blob/master/dc1_2020_08.pdf)
+###  [最終レポート]()
+###  [ポスター](https://github.com/5418065shuunki/shuunki.github.io/blob/master/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.png)
+###  [ゲーム画面](https://github.com/5418065shuunki/shuunki.github.io/blob/master/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC2.PNG)
